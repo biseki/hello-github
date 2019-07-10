@@ -2,7 +2,6 @@
 
 int main(void)
 {
-  printf("aaaaa");
-  
-  return (0);
+    printf("aaaaa");
+    return (0);
 }
